@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 50ed6246c04d1604e9f70f58dc2ca756, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 9858a39166ad18643b8454593435e2af,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 8756084fedd81da45b9e2bbfe9ff1f46, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: d4dd299de740d18428d5795e0e87d67b, type: 2}
